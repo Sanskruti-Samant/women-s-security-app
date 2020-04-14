@@ -1,4 +1,4 @@
-package appinventor.ai_prateekelectronmechanics.womenSafety;
+
 
 import android.os.Bundle;
 import com.google.appinventor.components.runtime.AccelerometerSensor;
@@ -1725,7 +1725,3 @@ public class Screen1 extends Form implements Runnable {
 }
 
 
-/* Location:              C:\Users\Prateek_GIT\Documents\dex2jar-2.0\womenSafety-dex2jar.jar!\appinventor\ai_prateekelectronmechanics\womenSafety\Screen1.class
- * Java compiler version: 6 (50.0)
- * JD-Core Version:       1.1.3
- */
